@@ -6,6 +6,6 @@ in R run two commands:
 library(shiny)
 runApp()
 
-More abou this app is :
+More about this app is :
 
 http://rpubs.com/GintasBu/ASCVD
